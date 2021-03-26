@@ -1,2 +1,3 @@
 *.class
 /bin/
+git 충돌나면 pull > commit > push
